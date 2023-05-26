@@ -1,0 +1,38 @@
+body {
+  background-color: #0000ffa9;
+}
+.text-center {
+  text-align: center;
+}
+.bg-blue {
+  background-color: #cff4fc;
+}
+h1 {
+  color: #fff;
+}
+.num-btn {
+  border: 1px solid #000;
+  border-radius: 50%;
+  height: 3rem;
+  width: 3rem;
+  background-color: #10b5dfa9;
+}
+.icon {
+  font-size: 1.5rem;
+}
+.cv-web,
+.pet-web,
+.news-web {
+  display: none;
+}
+.bor-bottom {
+  border-bottom: 1px dashed #1749d1ec;
+  padding-left: 0;
+}
+.icon {
+  text-align: center;
+}
+.mg-x {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}

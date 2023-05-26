@@ -1,0 +1,46 @@
+@media only screen and (max-width: 767px) {
+  html {
+    margin: 0;
+  }
+  section > .container {
+    margin: 0;
+  }
+  .container {
+    padding: 0;
+  }
+  ul {
+    padding-left: 0;
+  }
+  #about {
+    padding: 15px;
+  }
+  #personal-info {
+    padding: 15px;
+  }
+  #job-info {
+    padding: 15px;
+  }
+  #banner {
+    margin: 0;
+  }
+  .self-img {
+    display: none;
+  }
+  #nav-bar .all-set-box {
+    font-size: 25px;
+    border-left: none;
+    border-right: none;
+  }
+  .columns-5-3 {
+    display: none;
+  }
+  #certificate .cer-line-left::after {
+    border-left: none;
+  }
+  .cer-mobile {
+    border-bottom: 1px solid #d6c08d;
+  }
+  #certificate .cer-line-left {
+    padding-left: 2rem;
+  }
+}
